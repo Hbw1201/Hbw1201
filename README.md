@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Han Bowen
-- 👀 I’m interested in CV and ML
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @Han Bowen the year 3 computer science student from USM
+- 👀 I’m interested in Agent and NLP
+- 🌱 I’m currently learning NLP
 
 <!---
 Hbw1201/Hbw1201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
